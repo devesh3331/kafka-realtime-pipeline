@@ -10,6 +10,7 @@ from pyspark.sql.types import (
 )
 
 print("⏳ Spark shuru ho raha hai - 30-60 seconds lagenge...")
+print("⏳ Spark shuru ho raha hai - 30-60 seconds lagenge...")
 
 print("⏳ Spark shuru ho raha hai - 30-60 seconds lagenge...")
 # Spark Session banao
